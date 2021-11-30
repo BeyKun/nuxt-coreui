@@ -1,0 +1,37 @@
+{
+  "name": "nextgentransformer",
+  "version": "1.0.0",
+  "description": "Transformer by Telkom Indonesia",
+  "author": "PT Cybers Blitz Nusantara",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "@nuxtjs/style-resources": "^0.1.1",
+    "bootstrap-vue": "^2.0.0-rc.1",
+    "chart.js": "^2.7.1",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.3",
+    "flag-icon-css": "^2.9.0",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^6.0.1",
+    "nuxt": "^2.15.7",
+    "sass-loader": "^10",
+    "simple-line-icons": "^2.4.1",
+    "vue-chartjs": "^3.1.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-vue": "^4.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
